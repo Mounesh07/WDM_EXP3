@@ -1,4 +1,4 @@
-# EX:3 Implementation of GSP Algorithm In Python
+# EX: 3 Implementation of GSP Algorithm In Python
 
 ## AIM: To implement GSP Algorithm In Python.
 ## Description:
